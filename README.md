@@ -1,6 +1,8 @@
 # so_long
 This project is a very small 2D game. Its purpose is to work with textures, sprites, and some other very basic gameplay elements.
 
+![gif of the game](so_long.gif)
+
 The character has to collect all collectibles and escape. Using `MiniLibX` is mandatory
 
 ## Game
